@@ -1,4 +1,6 @@
 require("core.config")
-require("core.plugin")
-require("core.lsp")
 require("core.keymaps")
+
+require("expand.plugin")
+require("expand.lsp")
+require("expand.theme")
